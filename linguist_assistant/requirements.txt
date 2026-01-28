@@ -1,8 +1,6 @@
-streamlit==1.40.1
-pandas==2.0.3
-requests==2.31.0
-beautifulsoup4==4.12.2
-trafilatura==1.9.0
-deepcut==0.6.1
-attacut==1.0.6
-openpyxl==3.1.2
+streamlit
+pandas
+requests
+beautifulsoup4
+openpyxl
+attacut
